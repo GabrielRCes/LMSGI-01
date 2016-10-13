@@ -8,7 +8,7 @@ En este **_Github_** vamos a ver la primera práctica del **Módulo**: _"Introdu
  1. Índice de archivos subidos como ejemplo.  
   * EjemploCSS.css  
   * EjemploHTML.html  
-  * EjemploPOSTSCRIPT GITHUB imagen.ps  
+  * EjemploPS.ps  
   * EjemploRTF.rtf  
   * EjemploXML.xml  
  

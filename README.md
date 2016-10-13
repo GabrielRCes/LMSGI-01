@@ -19,5 +19,7 @@ Para registrarme en GITHUB he utilizado el manual que podemos encontrar en el au
 
 Posteriormente se ha creado un ejemplo de cada lenguaje: CSS, HTML, PS, RTF y XML.
 
-> Nota: Algunos ejemplos se han creado abriendo bloc de notas, introduciendo algun trozo de código encontrado en internet y guardando directamente con la extensión del lenguaje, ejemplo: EjemploCSS.css
+> * **Nota 1**: Algunos ejemplos se han creado abriendo bloc de notas, introduciendo algun trozo de código encontrado en internet y guardando directamente con la extensión del lenguaje, ejemplo: EjemploCSS.css.
+ * **Nota 2**: Otros ejemplos se han creado abriendo bloc de notas e introduciendo algun trozo de coódigo, guarado en archivo .txt y posteriormente sustituyendo .txt por ".xml".
+ * **Nota 3**: Para final, algunos ejemplos como es el caso de PostScript, se ha descargado una imagen en formato .jpg y se ha sustituido la extensión por .ps. Tras comentarlo en el foro, se ha sustituido el archivo, creando un bloc de notas con el trozo de código que podemos encontrar en el manual, guardado en formato .txt y cambiando la extensión a .ps.
 

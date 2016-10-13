@@ -14,7 +14,7 @@ En este **_Github_** vamos a ver la primera práctica del **Módulo**: _"Introdu
  
  2. Descripción de como se ha realizado la tarea.
  
-Para registrarme en _GITHUB_ he utilizado el manual que podemos encontrar en el aula virtual. Se ha creado un repositorio llamado LMSGI-01. Posteriormente se ha cursado el curso [Markdowntutorial](http://www.markdowntutorial.com/) para poder rellenar el apartado README.md
+Para registrarme en _GITHUB_ he utilizado el manual que podemos encontrar en el aula virtual. Se ha creado un repositorio llamado LMSGI-01. Posteriormente se ha cursado el curso [Markdowntutorial](http://www.markdowntutorial.com/) para poder rellenar el apartado _README.md_.
 > Nota: algunos puntos no me han quedado muy claros como es el de los **paragrafos**, sin embargo creo que está  quedando bastante bién.
 
 Posteriormente se ha creado un ejemplo de cada lenguaje: **CSS, HTML, PS, RTF y XML**.
